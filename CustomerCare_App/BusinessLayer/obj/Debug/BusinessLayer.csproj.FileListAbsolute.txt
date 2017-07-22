@@ -1,0 +1,11 @@
+c:\users\amity\documents\visual studio 2015\Projects\CustomerCare_App\BusinessLayer\bin\Debug\BusinessLayer.dll
+c:\users\amity\documents\visual studio 2015\Projects\CustomerCare_App\BusinessLayer\bin\Debug\BusinessLayer.pdb
+c:\users\amity\documents\visual studio 2015\Projects\CustomerCare_App\BusinessLayer\obj\Debug\BusinessLayer.dll
+c:\users\amity\documents\visual studio 2015\Projects\CustomerCare_App\BusinessLayer\obj\Debug\BusinessLayer.pdb
+c:\users\amity\documents\visual studio 2015\Projects\CustomerCare_App\BusinessLayer\bin\Debug\DataLayer.dll
+c:\users\amity\documents\visual studio 2015\Projects\CustomerCare_App\BusinessLayer\bin\Debug\ModelLayer.dll
+c:\users\amity\documents\visual studio 2015\Projects\CustomerCare_App\BusinessLayer\bin\Debug\EntityFramework.dll
+c:\users\amity\documents\visual studio 2015\Projects\CustomerCare_App\BusinessLayer\bin\Debug\DataLayer.pdb
+c:\users\amity\documents\visual studio 2015\Projects\CustomerCare_App\BusinessLayer\bin\Debug\ModelLayer.pdb
+c:\users\amity\documents\visual studio 2015\Projects\CustomerCare_App\BusinessLayer\bin\Debug\EntityFramework.xml
+c:\users\amity\documents\visual studio 2015\Projects\CustomerCare_App\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache

@@ -1,0 +1,17 @@
+c:\users\amity\documents\visual studio 2015\Projects\CustomerCare_App\CustomerCare_App\bin\Debug\CustomerCare_App.exe.config
+c:\users\amity\documents\visual studio 2015\Projects\CustomerCare_App\CustomerCare_App\bin\Debug\CustomerCare_App.exe
+c:\users\amity\documents\visual studio 2015\Projects\CustomerCare_App\CustomerCare_App\bin\Debug\CustomerCare_App.pdb
+c:\users\amity\documents\visual studio 2015\Projects\CustomerCare_App\CustomerCare_App\obj\Debug\CustomerCare_App.csprojResolveAssemblyReference.cache
+c:\users\amity\documents\visual studio 2015\Projects\CustomerCare_App\CustomerCare_App\obj\Debug\CustomerCare_App.Form1.resources
+c:\users\amity\documents\visual studio 2015\Projects\CustomerCare_App\CustomerCare_App\obj\Debug\CustomerCare_App.Properties.Resources.resources
+c:\users\amity\documents\visual studio 2015\Projects\CustomerCare_App\CustomerCare_App\obj\Debug\CustomerCare_App.csproj.GenerateResource.Cache
+c:\users\amity\documents\visual studio 2015\Projects\CustomerCare_App\CustomerCare_App\obj\Debug\CustomerCare_App.exe
+c:\users\amity\documents\visual studio 2015\Projects\CustomerCare_App\CustomerCare_App\obj\Debug\CustomerCare_App.pdb
+c:\users\amity\documents\visual studio 2015\Projects\CustomerCare_App\CustomerCare_App\bin\Debug\BusinessLayer.dll
+c:\users\amity\documents\visual studio 2015\Projects\CustomerCare_App\CustomerCare_App\bin\Debug\DataLayer.dll
+c:\users\amity\documents\visual studio 2015\Projects\CustomerCare_App\CustomerCare_App\bin\Debug\ModelLayer.dll
+c:\users\amity\documents\visual studio 2015\Projects\CustomerCare_App\CustomerCare_App\bin\Debug\EntityFramework.dll
+c:\users\amity\documents\visual studio 2015\Projects\CustomerCare_App\CustomerCare_App\bin\Debug\BusinessLayer.pdb
+c:\users\amity\documents\visual studio 2015\Projects\CustomerCare_App\CustomerCare_App\bin\Debug\DataLayer.pdb
+c:\users\amity\documents\visual studio 2015\Projects\CustomerCare_App\CustomerCare_App\bin\Debug\ModelLayer.pdb
+c:\users\amity\documents\visual studio 2015\Projects\CustomerCare_App\CustomerCare_App\bin\Debug\EntityFramework.xml
